@@ -18,11 +18,11 @@ Yeah i have made my own Web-based version of it.
 
 ## TECH STACK USED 
 
-- [HTML] 
+- HTML 
 
-- [CSS]
+- CSS
 
-- [JAVASCRIPT]
+- JAVASCRIPT
 
 
 
