@@ -1,4 +1,4 @@
-PROJECT DESCRIPTION 
+# PROJECT DESCRIPTION
 
 Simon-Game 🕹️ - Test Your Memory,Beat The Colors
 
@@ -6,7 +6,7 @@ Ever played one of those retro arcade games which plays with your mind by flashi
 
 Yeah i have made my own Web-based version of it.
 
-HOW TO PLAY 🎮? 
+## HOW TO PLAY 🎮? 
 
 1.Watch the color as it pops up.
 
@@ -16,13 +16,13 @@ HOW TO PLAY 🎮?
 
 4.Mess up? Back to level 1. No mercy
 
-TECH STACK USED 
+## TECH STACK USED 
 
-1.HTML 
+-HTML 
 
-2.CSS
+-CSS
 
-3.JAVASCRIPT
+-JAVASCRIPT
 
 
 
