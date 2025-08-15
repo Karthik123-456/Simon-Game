@@ -4,7 +4,7 @@ Simon-Game 🕹️ - Test Your Memory,Beat The Colors
 
 Ever played one of those retro arcade games which plays with your mind by flashing lights and blasting sounds?
 
-Yeah i have made my own Web-based version of it.
+Yeah, i have built my own Web-based version of it.
 
 ## HOW TO PLAY 🎮? 
 
